@@ -74,22 +74,22 @@ Residual plots showed a mostly random distribution, indicating a good model fit 
 ## 📊 Visual Results
 
 ### 1. Actual vs Predicted
-![Actual vs Predicted](results/actual_vs_predicted.png)
+![Actual vs Predicted](results/Actual_vs_predicted.png)
 
 ### 2. Residual Plot
-![Residual Plot](results/residual_plot.png)
+![Residual Plot](results/Residual_plot.png)
 
 ### 3. Median Income vs Price
-![MedInc](results/medinc_vs_price.png)
+![MedInc](results/Medinc_vs_House_price.png)
 
 ### 4. House Age vs Price
-![House Age](results/houseage_vs_price.png)
+![House Age](results/Houseage_vs_price.png)
 
 ### 5. Rooms vs Price
-![Rooms](results/rooms_vs_price.png)
+![Rooms](results/Averooms_vs_price.png)
 
 ### 6. Simple Linear Regression
-![Simple Regression](results/simple_regression.png)
+![Simple Regression](results/simplelinear_regression.png)
 
 
 ---
