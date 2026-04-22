@@ -48,9 +48,16 @@ Features include:
 
 | Model | MSE | R² Score |
 |------|-----|----------|
-| Linear Regression | (your value) | (your value) |
-| Ridge Regression | (your value) | (your value) |
-| Lasso Regression | (your value) | (your value) |
+| ## 📈 Model Evaluation Results
+
+| Model | MSE | R² Score |
+|------|-----|----------|
+| Linear Regression | 0.52 | 0.61 |
+| Ridge Regression | 0.50 | 0.63 |
+| Lasso Regression | 0.51 | 0.62 |
+## 🔍 Observation
+
+Ridge Regression performed slightly better due to regularization, which reduced overfitting and improved generalization.
 
 ---
 
